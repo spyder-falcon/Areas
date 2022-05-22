@@ -4,7 +4,7 @@ To find Area of Rectangle, square, triangle and circle
 # Area-of-square-and-rectangle
 To Find Area of Square and Rectangle
 ```
-[https://github.com/spyder-falcon/Area-of-square-and-rectangle.git](https://github.com/spyder-falcon/Areas)
+https://github.com/spyder-falcon/Areas
 ```
 ## OUTPUT
 ```
